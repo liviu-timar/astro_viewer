@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Astro Viewer</string>
+    <string name="warped">It\'s warped.</string>
+    <string name="stars">Over 200 billion stars.</string>
+    <string name="gassy">It\'s really dusty and gassy.</string>
+    <string name="black_hole">Black hole at the centre.</string>
+    <string name="our_universe">Our Universe</string>
+    <string name="go_back">Go Back</string>
+    <string name="astronomy_picture">Astronomy Picture</string>
+    <string name="sort_pictures">Sort Pictures</string>
+    <string name="sort_by_title">Sort by Title (Ascending)</string>
+    <string name="sort_by_date">Sort by Date (Newest)</string>
+    <string name="apply">Apply</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_network_connection">No network connection</string>
+    <string name="check_network_connection">Please check your network connection and try again.</string>
+    <string name="api_error">Something went wrong</string>
+    <string name="try_again_later">Please try again later.</string>
+    <string name="try_again">Try Again</string>
+</resources>
